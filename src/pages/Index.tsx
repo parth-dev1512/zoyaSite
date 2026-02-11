@@ -54,7 +54,7 @@ const Index = () => {
         </h1>
 
         <p className="max-w-md text-lg font-medium text-muted-foreground">
-          I've been meaning to ask you something special…
+          So Zoya… I've been meaning to ask you something special…
         </p>
 
         <div className="mt-4 flex items-center gap-6">
