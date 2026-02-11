@@ -85,9 +85,7 @@ const Index = () => {
               Good Decision!
             </DialogTitle>
             <DialogDescription className="mt-2 text-base font-medium text-muted-foreground">
-              You just made my heart skip a beat! 💓
-              <br />
-              Happy Valentine's Day! 🌹
+              Figure out karna padega abh ki chloroform ka kya karna hai 😏💀
             </DialogDescription>
           </DialogHeader>
         </DialogContent>
