@@ -48,14 +48,12 @@ const Index = () => {
         <span className="bounce-gentle inline-block text-7xl md:text-8xl">💝</span>
 
         <h1 className="text-4xl font-black tracking-tight text-foreground md:text-6xl lg:text-7xl">
+          So Zoya…
+          <br />
           Will you be my
           <br />
           <span className="text-primary">Valentine?</span>
         </h1>
-
-        <p className="max-w-md text-lg font-medium text-muted-foreground">
-          So Zoya… I've been meaning to ask you something special…
-        </p>
 
         <div className="mt-4 flex items-center gap-6">
           <button
